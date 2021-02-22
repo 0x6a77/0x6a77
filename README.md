@@ -6,4 +6,6 @@ of all the things i've ever done with zero-diff, i find this is the most transfo
 
 ### what i'm working on these days
 
-during my time at autodesk i developed new zero-diff ideas around gitops and immutable infrastructure and i decided to venture off into the wilderness to develop them into code and tools: [karrots](https://karrots.app). we'll see where it ends up, but right now with a single command you can bring up a fully functional kubernetes production environment that can scale from just a few apps to thousands that can millions of transactions.
+during my time at autodesk i conceptualized new zero-diff ideas based on gitops and immutable infrastructure. i ventured into the wilderness to express those ideas as code and tools: [karrots](https://karrots.app). we'll see where it ends up! tho' today a single command can bring up a fully functional kubernetes production environment that scales from just a few apps to thousands that can handle millions of transactions. 
+
+for now i've decided to focus karrots on building cool environments for data science teams
