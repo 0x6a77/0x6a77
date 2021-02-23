@@ -1,6 +1,6 @@
 ### about me
 
-i'm really into continuous proess improvement and automation. i've collected these ideas into a concept called [zero-diff](https://zerodiff.org).
+i'm really into continuous process improvement and automation. i've collected these ideas into a concept called [zero-diff](https://zerodiff.org).
 
 of all the things i've ever done with zero-diff, i find this is the most transformative: [read-with-a-pen](https://tinyletter.com/zerodiff/letters/zerodiff-efficient-kaizen-read-with-a-pen) (tho' it has evolved a lot!)
 
