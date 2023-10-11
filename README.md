@@ -1,3 +1,15 @@
-### what i'm working on these days
+### Karrots.app
 
-karrots (a cool new dataops platform)
+I'm the co-founder of [karrots.app](https://karrots.app), a SaaS tool that builds and manages a full data plaform in your cloud account.
+
+We handle your data team's devops so your analysts can focus on what they do best. We get you there in days and weeks — not months and years.
+
+Technologies that I use regularly:
+
+* kubernetes
+* golang
+* kotlin
+* typescript
+* terraform
+* llama2/code-llama
+* postgres/sql/dbt
