@@ -9,6 +9,7 @@ We handle your data team's devops so your analysts can focus on what they do bes
 * kubernetes
 * golang
 * kotlin
+* python
 * typescript
 * terraform
 * llama2/code-llama
