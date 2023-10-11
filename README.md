@@ -11,6 +11,6 @@ We handle your data team's devops so your analysts can focus on what they do bes
 * kotlin
 * python
 * typescript
-* terraform (and now open tofu!)
+* terraform (and now [open tofu](https://opentofu.org/)!)
 * llama2/code-llama
 * postgres/sql/dbt
